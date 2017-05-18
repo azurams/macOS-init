@@ -3,7 +3,7 @@
 ## TL;DR réservé à moi-même
 
 ```shell
-$ curl -sfL https://borisschapira.github.io/macOS-init/run.sh | sh
+$ curl -sfL https://azurams.github.io/macOS-init/run.sh | sh
 ```
 
 ## Présentation
